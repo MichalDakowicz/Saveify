@@ -17,7 +17,7 @@ This simple Python script automates downloading songs from Spotify playlists usi
     pip install spotdl
     ```
 
-2. **Input links to the 'links.txt' file:** Place the links to your Spotify playlists in this file, one link per line.
+2. **Input links to the 'links.txt' file:** Place the links to Spotify songs/albums/playlists in this file, one link per line.
 
 ## Usage
 
