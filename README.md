@@ -27,6 +27,24 @@ Run the script from your terminal:
 python main.py
 ```
 
+If prompted
+
+```bash
+FFmpeg is already installed. Do you want to overwrite it? (y/N):
+```
+
+1. Type `y` and press `Enter` to download the latest version of FFmpeg.
+
+2. Type `N` and press `Enter` to use the existing FFmpeg installation.
+
+    If you get the following error:
+
+    ```bash
+    OSError: [WinError 193] %1 is not a valid Win32 application
+    ```
+
+    Go back to option 1 and overwrite the existing FFmpeg installation.
+
 ## Explanation
 
 The script does the following:
